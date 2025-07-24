@@ -14,10 +14,12 @@ A beautiful Frappe app to **generate** and **visualize** whitelisted APIs with i
 
 ## How to Use
 
-1. **Install the app** in your Frappe site and run the OpenAPI generator.
-2. **Access the API Explorer UI** at `/docs` (or your configured route).
-3. **Select an app** from the sidebar to view its API documentation.
-4. **Try out endpoints** directly from the Swagger UI.
+1. **Install the app** in your Frappe site.
+2. **Run `bench migrate`** to apply changes and update your site.
+3. **Run the OpenAPI generator**.
+4. **Access the API Explorer UI** at `/docs` (or your configured route).
+5. **Select an app** from the sidebar to view its API documentation.
+6. **Try out endpoints** directly from the Swagger UI.
 
 ---
 

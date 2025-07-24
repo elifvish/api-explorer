@@ -242,3 +242,4 @@ app_license = "agpl-3.0"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+after_migrate = "api_explorer.api_explorer.generate_api_docs.generate_openapi_for_all_apps"

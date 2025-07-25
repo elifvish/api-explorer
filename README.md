@@ -3,7 +3,9 @@
 A beautiful Frappe app to **generate** and **visualize** whitelisted APIs with interactive Swagger UI documentation.
 
 ---
-<img width="1527" height="845" alt="Screenshot 2025-07-25 at 10 08 40 AM" src="https://github.com/user-attachments/assets/e72ac836-406a-4063-93b8-daf43069f4d9" />
+<img width="1339" height="729" alt="Screenshot 2025-07-25 at 10 09 30 AM" src="https://github.com/user-attachments/assets/90279305-347f-4bd3-977a-c7910f0c107b" />
+
+
 
 ## Features
 
